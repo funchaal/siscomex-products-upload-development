@@ -1,0 +1,501 @@
+﻿Name;Code;Language
+Afghanistan;AF;EN
+Aland Islands;AX;EN
+Albania;AL;EN
+Algeria;DZ;EN
+American Samoa;AS;EN
+Andorra;AD;EN
+Angola;AO;EN
+Anguilla;AI;EN
+Antarctica;AQ;EN
+Antigua and Barbuda;AG;EN
+Argentina;AR;EN
+Armenia;AM;EN
+Aruba;AW;EN
+Australia;AU;EN
+Austria;AT;EN
+Azerbaijan;AZ;EN
+Bahamas;BS;EN
+Bahrain;BH;EN
+Bangladesh;BD;EN
+Barbados;BB;EN
+Belarus;BY;EN
+Belgium;BE;EN
+Belize;BZ;EN
+Benin;BJ;EN
+Bermuda;BM;EN
+Bhutan;BT;EN
+Bolivia, Plurinational State of;BO;EN
+"Bonaire, Sint Eustatius and Saba""";BQ;EN
+Bosnia and Herzegovina;BA;EN
+Botswana;BW;EN
+Bouvet Island;BV;EN
+Brazil;BR;EN
+British Indian Ocean Territory;IO;EN
+Brunei Darussalam;BN;EN
+Bulgaria;BG;EN
+Burkina Faso;BF;EN
+Burundi;BI;EN
+Cambodia;KH;EN
+Cameroon;CM;EN
+Canada;CA;EN
+Cape Verde;CV;EN
+Cayman Islands;KY;EN
+Central African Republic;CF;EN
+Chad;TD;EN
+Chile;CL;EN
+China;CN;EN
+Christmas Island;CX;EN
+Cocos (Keeling) Islands;CC;EN
+Colombia;CO;EN
+Comoros;KM;EN
+Congo;CG;EN
+Congo, the Democratic Republic of the;CD;EN
+Cook Islands;CK;EN
+Costa Rica;CR;EN
+Côte d'Ivoire;CI;EN
+Croatia;HR;EN
+Cuba;CU;EN
+Curaçao;CW;EN
+Cyprus;CY;EN
+Czech Republic;CZ;EN
+Denmark;DK;EN
+Djibouti;DJ;EN
+Dominica;DM;EN
+Dominican Republic;DO;EN
+Ecuador;EC;EN
+Egypt;EG;EN
+El Salvador;SV;EN
+Equatorial Guinea;GQ;EN
+Eritrea;ER;EN
+Estonia;EE;EN
+Ethiopia;ET;EN
+Falkland Islands (Malvinas);FK;EN
+Faroe Islands;FO;EN
+Fiji;FJ;EN
+Finland;FI;EN
+France;FR;EN
+French Guiana;GF;EN
+French Polynesia;PF;EN
+French Southern Territories;TF;EN
+Gabon;GA;EN
+Gambia;GM;EN
+Georgia;GE;EN
+Germany;DE;EN
+Ghana;GH;EN
+Gibraltar;GI;EN
+Greece;GR;EN
+Greenland;GL;EN
+Grenada;GD;EN
+Guadeloupe;GP;EN
+Guam;GU;EN
+Guatemala;GT;EN
+Guernsey;GG;EN
+Guinea;GN;EN
+Guinea-Bissau;GW;EN
+Guyana;GY;EN
+Haiti;HT;EN
+Heard Island and McDonald Islands;HM;EN
+Holy See (Vatican City State);VA;EN
+Honduras;HN;EN
+Hong Kong;HK;EN
+Hungary;HU;EN
+Iceland;IS;EN
+India;IN;EN
+Indonesia;ID;EN
+Iran, Islamic Republic of;IR;EN
+Iraq;IQ;EN
+Ireland;IE;EN
+Isle of Man;IM;EN
+Israel;IL;EN
+Italy;IT;EN
+Jamaica;JM;EN
+Japan;JP;EN
+Jersey;JE;EN
+Jordan;JO;EN
+Kazakhstan;KZ;EN
+Kenya;KE;EN
+Kiribati;KI;EN
+Korea, Democratic People's Republic of;KP;EN
+Korea, Republic of;KR;EN
+Kuwait;KW;EN
+Kyrgyzstan;KG;EN
+Lao People's Democratic Republic;LA;EN
+Latvia;LV;EN
+Lebanon;LB;EN
+Lesotho;LS;EN
+Liberia;LR;EN
+Libya;LY;EN
+Liechtenstein;LI;EN
+Lithuania;LT;EN
+Luxembourg;LU;EN
+Macao;MO;EN
+Macedonia, the Former Yugoslav Republic of;MK;EN
+Madagascar;MG;EN
+Malawi;MW;EN
+Malaysia;MY;EN
+Maldives;MV;EN
+Mali;ML;EN
+Malta;MT;EN
+Marshall Islands;MH;EN
+Martinique;MQ;EN
+Mauritania;MR;EN
+Mauritius;MU;EN
+Mayotte;YT;EN
+Mexico;MX;EN
+Micronesia, Federated States of;FM;EN
+Moldova, Republic of;MD;EN
+Monaco;MC;EN
+Mongolia;MN;EN
+Montenegro;ME;EN
+Montserrat;MS;EN
+Morocco;MA;EN
+Mozambique;MZ;EN
+Myanmar;MM;EN
+Namibia;NA;EN
+Nauru;NR;EN
+Nepal;NP;EN
+Netherlands;NL;EN
+New Caledonia;NC;EN
+New Zealand;NZ;EN
+Nicaragua;NI;EN
+Niger;NE;EN
+Nigeria;NG;EN
+Niue;NU;EN
+Norfolk Island;NF;EN
+Northern Mariana Islands;MP;EN
+Norway;NO;EN
+Oman;OM;EN
+Pakistan;PK;EN
+Palau;PW;EN
+"Palestine, State of""";PS;EN
+Panama;PA;EN
+Papua New Guinea;PG;EN
+Paraguay;PY;EN
+Peru;PE;EN
+Philippines;PH;EN
+Pitcairn;PN;EN
+Poland;PL;EN
+Portugal;PT;EN
+Puerto Rico;PR;EN
+Qatar;QA;EN
+Réunion;RE;EN
+Romania;RO;EN
+Russian Federation;RU;EN
+Rwanda;RW;EN
+Saint Barthéemy;BL;EN
+Saint Helena, Ascension and Tristan da Cunha;SH;EN
+Saint Kitts and Nevis;KN;EN
+Saint Lucia;LC;EN
+Saint Martin (French part);MF;EN
+Saint Pierre and Miquelon;PM;EN
+Saint Vincent and the Grenadines;VC;EN
+Samoa;WS;EN
+San Marino;SM;EN
+Sao Tome and Principe;ST;EN
+Saudi Arabia;SA;EN
+Senegal;SN;EN
+Serbia;RS;EN
+Seychelles;SC;EN
+Sierra Leone;SL;EN
+Singapore;SG;EN
+Sint Maarten (Dutch part);SX;EN
+Slovakia;SK;EN
+Slovenia;SI;EN
+Solomon Islands;SB;EN
+Somalia;SO;EN
+South Africa;ZA;EN
+South Georgia and the South Sandwich Islands;GS;EN
+South Sudan;SS;EN
+Spain;ES;EN
+Sri Lanka;LK;EN
+Sudan;SD;EN
+Suriname;SR;EN
+Svalbard and Jan Mayen;SJ;EN
+Swaziland;SZ;EN
+Sweden;SE;EN
+Switzerland;CH;EN
+Syrian Arab Republic;SY;EN
+Taiwan;TW;EN
+Taiwan, Province of China;TW;EN
+Tajikistan;TJ;EN
+Tanzania, United Republic of;TZ;EN
+Thailand;TH;EN
+Timor-Leste;TL;EN
+Togo;TG;EN
+Tokelau;TK;EN
+Tonga;TO;EN
+Trinidad and Tobago;TT;EN
+Tunisia;TN;EN
+Turkey;TR;EN
+Turkmenistan;TM;EN
+Turks and Caicos Islands;TC;EN
+Tuvalu;TV;EN
+Uganda;UG;EN
+Ukraine;UA;EN
+United Arab Emirates;AE;EN
+United Kingdom;GB;EN
+United States;US;EN
+United States Minor Outlying Islands;UM;EN
+Uruguay;UY;EN
+Uzbekistan;UZ;EN
+Vanuatu;VU;EN
+Venezuela, Bolivarian Republic of;VE;EN
+Viet Nam;VN;EN
+"Virgin Islands, British""";VG;EN
+Virgin Islands, U.S.;VI;EN
+Wallis and Futuna;WF;EN
+Western Sahara;EH;EN
+Yemen;YE;EN
+Zambia;ZM;EN
+Zimbabwe;ZW;EN
+Afeganistão;AF;PT
+Ilhas Aland;AX;PT
+Albânia;AL;PT
+Argélia;DZ;PT
+Samoa Americana;AS;PT
+Andorra;AD;PT
+Angola;AO;PT
+Anguilla;AI;PT
+Antártida;AQ;PT
+Antígua e Barbuda;AG;PT
+Argentina;AR;PT
+Armênia;AM;PT
+Aruba;AW;PT
+Austrália;AU;PT
+Áustria;AT;PT
+Azerbaijão;AZ;PT
+Bahamas;BS;PT
+Bahrein;BH;PT
+Bangladesh;BD;PT
+Barbados;BB;PT
+Belarus;BY;PT
+Bélgica;BE;PT
+Belize;BZ;PT
+Benim;BJ;PT
+Bermudas;BM;PT
+Butão;BT;PT
+Bolívia, Estado Plurinacional de;BO;PT
+"Bonaire, Santo Eustáquio e Saba""";BQ;PT
+Bósnia e Herzegovina;BA;PT
+Botsuana;BW;PT
+Ilha Bouvet;BV;PT
+Brasil;BR;PT
+Território Britânico do Oceano Índico;IO;PT
+Brunei Darussalam;BN;PT
+Bulgária;BG;PT
+Burquina Faso;BF;PT
+Burundi;BI;PT
+Camboja;KH;PT
+Camarões;CM;PT
+Canadá;CA;PT
+Cabo Verde;CV;PT
+Ilhas Cayman;KY;PT
+República Centro-Africana;CF;PT
+Chade;TD;PT
+Chile;CL;PT
+China;CN;PT
+Ilha Christmas;CX;PT
+Ilhas Cocos (Keeling);CC;PT
+Colômbia;CO;PT
+Comores;KM;PT
+Congo;CG;PT
+Congo, República Democrática do Congo;CD;PT
+Ilhas Cook;CK;PT
+Costa Rica;CR;PT
+Costa do Marfim;CI;PT
+Croácia;HR;PT
+Cuba;CU;PT
+Curaçao;CW;PT
+Chipre;CY;PT
+República Tcheca;CZ;PT
+Dinamarca;DK;PT
+Djibuti;DJ;PT
+Domínica;DM;PT
+República Dominicana;DO;PT
+Equador;EC;PT
+Egito;EG;PT
+El Salvador;SV;PT
+Guiné Equatorial;GQ;PT
+Eritreia;ER;PT
+Estônia;EE;PT
+Etiópia;ET;PT
+Ilhas Malvinas (Malvinas);FK;PT
+Ilhas Faroés;FO;PT
+Fiji;FJ;PT
+Finlândia;FI;PT
+França;FR;PT
+Guiana Francesa;GF;PT
+Polinésia Francesa;PF;PT
+Territórios Franceses do Sul;TF;PT
+Gabão;GA;PT
+Gâmbia;GM;PT
+Geórgia;GE;PT
+Alemanha;DE;PT
+Gana;GH;PT
+Gibraltar;GI;PT
+Grécia;GR;PT
+Gronelândia;GL;PT
+Granada;GD;PT
+Guadalupe;GP;PT
+Guam;GU;PT
+Guatemala;GT;PT
+Guernsey;GG;PT
+Guiné;GN;PT
+Guiné-Bissau;GW;PT
+Guiana;GY;PT
+Haiti;HT;PT
+Ilha Heard e Ilhas McDonald;HM;PT
+Santa Sé (Estado da Cidade do Vaticano);VA;PT
+Honduras;HN;PT
+Hong Kong;HK;PT
+Hungria;HU;PT
+Islândia;IS;PT
+Índia;IN;PT
+Indonésia;ID;PT
+Irã, República Islâmica do;IR;PT
+Iraque;IQ;PT
+Irlanda;IE;PT
+Ilha de Man;IM;PT
+Israel;IL;PT
+Itália;IT;PT
+Jamaica;JM;PT
+Japão;JP;PT
+Jersey;JE;PT
+Jordânia;JO;PT
+Cazaquistão;KZ;PT
+Quênia;KE;PT
+Kiribati;KI;PT
+Coreia, República Popular Democrática da;KP;PT
+Coreia, República da;KR;PT
+Kuaite;KW;PT
+Quirguistão;KG;PT
+República Democrática Popular do Laos;LA;PT
+Letônia;LV;PT
+Líbano;LB;PT
+Lesoto;LS;PT
+Libéria;LR;PT
+Líbia;LY;PT
+Liechtenstein;LI;PT
+Lituânia;LT;PT
+Luxemburgo;LU;PT
+Macau;MO;PT
+Macedónia, Antiga República Jugoslava da;MK;PT
+Madagáscar;MG;PT
+Malawi;MW;PT
+Malásia;MY;PT
+Maldivas;MV;PT
+Mali;ML;PT
+Malta;MT;PT
+Ilhas Marshall;MH;PT
+Martinica;MQ;PT
+Mauritânia;MR;PT
+Maurícia;MU;PT
+Mayotte;YT;PT
+México;MX;PT
+Micronésia, Estados Federados da;FM;PT
+Moldávia, República da;MD;PT
+Mónaco;MC;PT
+Mongólia;MN;PT
+Montenegro;ME;PT
+Montserrat;MS;PT
+Marrocos;MA;PT
+Moçambique;MZ;PT
+Myanmar;MM;PT
+Namíbia;NA;PT
+Nauru;NR;PT
+Nepal;NP;PT
+Países Baixos;NL;PT
+Nova Caledónia;NC;PT
+Nova Zelândia;NZ;PT
+Nicarágua;NI;PT
+Níger;NE;PT
+Nigéria;NG;PT
+Niue;NU;PT
+Ilha Norfolk;NF;PT
+Ilhas Marianas do Norte;MP;PT
+Noruega;NO;PT
+Omã;OM;PT
+Paquistão;PK;PT
+Palau;PW;PT
+"Palestina, Estado de""";PS;PT
+Panamá;PA;PT
+Papua-Nova Guiné;PG;PT
+Paraguai;PY;PT
+Peru;PE;PT
+Filipinas;PH;PT
+Pitcairn;PN;PT
+Polônia;PL;PT
+Portugal;PT;PT
+Porto Rico;PR;PT
+Catar;QA;PT
+Reunião;RE;PT
+Romênia;RO;PT
+Rússia;RU;PT
+Ruanda;RW;PT
+São Bartolomeu;BL;PT
+Santa Helena, Ascensão e Tristão da Cunha;SH;PT
+São Cristóvão e Nevis;KN;PT
+Santa Lúcia;LC;PT
+São Martinho (parte francesa);MF;PT
+São Pedro e Miquelon;PM;PT
+São Vicente e Granadinas;VC;PT
+Samoa;WS;PT
+San Marino;SM;PT
+São Tomé e Príncipe;ST;PT
+Arábia Saudita;SA;PT
+Senegal;SN;PT
+Sérvia e Montenegro;RS;PT
+Seicheles;SC;PT
+Serra Leoa;SL;PT
+Cingapura;SG;PT
+São Martinho (parte neerlandesa);SX;PT
+Eslováquia;SK;PT
+Eslovênia;SI;PT
+Ilhas Salomão;SB;PT
+Somália;SO;PT
+África do Sul;ZA;PT
+Ilhas Geórgia do Sul e Sandwich do Sul;GS;PT
+Sudão do Sul;SS;PT
+Espanha;ES;PT
+Sri Lanka;LK;PT
+Sudão;SD;PT
+Suriname;SR;PT
+Svalbard e Jan Mayen;SJ;PT
+Suazilândia;SZ;PT
+Suécia;SE;PT
+Suíça;CH;PT
+República Árabe da Síria;SY;PT
+Taiwan;TW;PT
+Taiwan, Província da China;TW;PT
+Tajiquistão;TJ;PT
+Tanzânia, República Unida da;TZ;PT
+Tailândia;TH;PT
+Timor-Leste;TL;PT
+Togo;TG;PT
+Tokelau;TK;PT
+Tonga;TO;PT
+Trinidad e Tobago;TT;PT
+Tunísia;TN;PT
+Turquia;TR;PT
+Turquemenistão;TM;PT
+Ilhas Turcas e Caicos;TC;PT
+Tuvalu;TV;PT
+Uganda;UG;PT
+Ucrânia;UA;PT
+Emirados Árabes Unidos;AE;PT
+Reino Unido;GB;PT
+Estados Unidos;US;PT
+Ilhas Menores Distantes dos Estados Unidos;UM;PT
+Uruguai;UY;PT
+Uzbequistão;UZ;PT
+Vanuatu;VU;PT
+Venezuela, República Bolivariana da;VE;PT
+Vietnã;VN;PT
+"Ilhas Virgens, Britânicas""";VG;PT
+Ilhas Virgens, EUA;VI;PT
+Wallis e Futuna;WF;PT
+Saara Ocidental;EH;PT
+Iêmen;YE;PT
+Zâmbia;ZM;PT
+Zimbábue;ZW;PT
